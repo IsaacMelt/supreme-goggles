@@ -1,0 +1,48 @@
+body{
+    margin: 300px;
+    background: url(lord.jpg);
+}
+
+.raz { 
+    -moz-appearance: textfield;
+  }
+.raz::-webkit-inner-spin-button { 
+    display: none;
+}
+
+table
+{ 
+    margin-left: auto;
+    margin-right: auto;
+	border: 2px solid black;
+	background: #FFC0CB;
+}
+form
+{
+    width: 500px;
+	background-color:#FFC0CB;
+}
+
+th
+{
+	text-align: center
+}
+p
+{
+	font-weight: bold;
+}
+hr{
+    display:block;
+    height:15px;
+    background-color: blue;
+}
+
+.hrdiv{
+    height: 1px;
+    background-color:black;
+}
+
+.righbut{
+    margin-top: 8px;
+    margin-left: 20px;
+}
